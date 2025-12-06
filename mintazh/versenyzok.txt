@@ -1,0 +1,10 @@
+Kiss Pista;88;1995
+Nagy Anna;92;1998
+Kovács Géza;45;1985
+Tóth Bence;76;2001
+Horváth Éva;100;1992
+Varga József;55;1978
+Szabó Zsófia;89;2000
+Molnár Gábor;12;1999
+Farkas Dóra;67;1994
+Balogh Tamás;34;1989
